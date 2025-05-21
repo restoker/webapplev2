@@ -17,7 +17,7 @@ Install my-project with npm
   npm run dev
 ```
 
-[Grabación de pantalla 2024-04-23 a la(s) 10.45.38 p. m..webm](https://github.com/restoker/IphonePageAnimation/assets/32400065/b371fe53-c5f3-43ff-a3b2-b3e8e7c6d7f2)
+[Grabación de pantalla 2025-05-21 a las 5.56.36 p. m..webm](https://github.com/user-attachments/assets/1b07a1d7-fc4d-4e92-b27c-8b194bfb19ff)
 
 # Link project
 (https://672f7dc160aa1a5c39f45827--marvelous-biscotti-3c7f6c.netlify.app/)
